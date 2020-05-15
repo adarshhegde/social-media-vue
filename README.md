@@ -1,4 +1,5 @@
-# test
+# Social Media Frontend design
+A frontend design for a social media website, made with vue, the data is static but can be hooked up to vuex or any other state management solutions and be made dynamic.
 
 ## Project setup
 ```
