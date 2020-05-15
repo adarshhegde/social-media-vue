@@ -20,7 +20,7 @@ export default {
           profile_picture:
             "https://scontent-maa2-1.xx.fbcdn.net/v/t1.0-9/95425115_1644661215684137_5586577808605315072_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=2mHzP2Elhl0AX8WsKN3&_nc_ht=scontent-maa2-1.xx&oh=9dcfe34f13b03daf03dec8bcdd54b2cb&oe=5EE17FE6",
           active: true,
-          last_seen: "2 days ago"
+          last_seen: "Active Now"
         },
         {
           name: "Pracheta Nayak",
